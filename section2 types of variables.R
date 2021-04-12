@@ -1,0 +1,22 @@
+#integer
+x <- 2
+
+typeof(x)
+
+#double 
+y <- 2.5
+
+typeof(y)
+
+#complex
+z <- 3 + 2i
+typeof(z)
+
+#character
+a <- "h"
+typeof(a)
+
+#logical
+q1 <- TRUE
+typeof(q1)
+
